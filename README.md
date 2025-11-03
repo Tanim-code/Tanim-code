@@ -1,3 +1,6 @@
+<img width="1584" height="396" alt="Tanim linkdin bg" src="https://github.com/user-attachments/assets/0b6bb133-f388-4c26-a819-6a46d0cb5dd0" />
+
+
 # 👋 Hi, I'm Tanim
 
 ### 🎯 Data Analyst | Business Intelligence Analyst
