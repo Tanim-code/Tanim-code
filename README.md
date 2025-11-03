@@ -2,7 +2,7 @@
 
 ### 🎯Data Analyst | Business Intelligence Analyst 
 
-With over **6 years** of experience in data analytics, I've helped organizations across **academia, research, fintech, e-commerce, and the development sector** turn complex data into strategic insights. I’m passionate about solving real-world problems and mentoring aspiring analysts to thrive in data careers.
+I’m a data enthusiast currently pursuing a B.Sc. in Statistics, with a strong passion for transforming data into insights that make a real impact. Alongside my studies, I work as a Junior Data Analyst in a consulting team, where I design and develop interactive dashboards for industries like Supply Chain, FinTech, E-commerce, and Healthcare.
 
 ---
 
@@ -10,24 +10,17 @@ With over **6 years** of experience in data analytics, I've helped organizations
 
 * 📊 Business Intelligence & Dashboarding
 * 🧠 Data Strategy & Storytelling
-* 🤝 Team Mentoring & Training
 * 🧪 Data Science & ML (for insight generation)
 
 ---
 
-## 🧠 Current Role
 
-* 🎯 **Senior Business Intelligence Analyst** @ [Buddy\&Selly](https://www.buddyandselly.com)
-* 🎙️ Host of data-focused webinars and workshops
-* 🎓 Mentor via [Topmate](https://topmate.io/sabbir_hossain_rossi)
 
 ---
 
 ## 🌐 Let's Connect
-
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook\&logoColor=white)](https://www.facebook.com/shabbirhossain.rossi)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/shabbir-hossain-rossi/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail\&logoColor=white)](mailto:shabbir.biforbusiness@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/amran-tanim/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail\&logoColor=white)](imranhossain47788@gmail.com)
 
 ---
 
@@ -41,7 +34,6 @@ With over **6 years** of experience in data analytics, I've helped organizations
 
 **Cloud & Databases:**
 
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge\&logo=amazon-aws\&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge\&logo=google-cloud\&logoColor=white)
 ![Postgres](https://img.shields.io/badge/Postgres-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
 
@@ -55,7 +47,6 @@ With over **6 years** of experience in data analytics, I've helped organizations
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=TensorFlow\&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge\&logo=scikit-learn\&logoColor=white)
-![MLFlow](https://img.shields.io/badge/mlflow-0175C2?style=for-the-badge\&logo=mlflow\&logoColor=white)
 
 **Others:**
 
@@ -65,9 +56,9 @@ With over **6 years** of experience in data analytics, I've helped organizations
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BI-with-Sabbir\&theme=dark\&hide_border=false)
-![Streak](https://streak-stats.demolab.com?user=BI-with-Sabbir\&theme=dark\&hide_border=false)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BI-with-Sabbir\&layout=compact\&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tanim-code\&theme=dark\&hide_border=false)
+![Streak](https://streak-stats.demolab.com?user=Tanim-code\&theme=dark\&hide_border=false)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanim-code\&layout=compact\&theme=dark)
 
 ---
 
@@ -79,8 +70,8 @@ With over **6 years** of experience in data analytics, I've helped organizations
 
 ## 📬 Contact Me
 
-* Email: **[shabbir.biforbusiness@gmail.com](mailto:shabbir.biforbusiness@gmail.com)**
-* Book a session: [Topmate.io/sabbir\_hossain\_rossi](https://topmate.io/sabbir_hossain_rossi)
+* Email: **[imranhossain47788@gmail.com](mailto:imranhossain47788@gmail.com)**
+
 
 ---
 
